@@ -11,6 +11,7 @@
 2. **Identificación de *Bloatware***.   
    Estos son los tres recursos más pesados que se descargan al abrir la web:
    <img width="536" height="68" alt="image" src="https://github.com/user-attachments/assets/d8977ee2-01ac-4c3d-86b3-eaf7fb2deda7" />
+
    Estas tres son imágenes de fondo.
 4. **Análisis**.
 
